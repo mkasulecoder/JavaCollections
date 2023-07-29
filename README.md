@@ -1,1 +1,1 @@
-# JavaCollections
+# Java Collections
